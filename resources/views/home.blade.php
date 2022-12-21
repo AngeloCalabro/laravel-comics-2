@@ -1,7 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<section class="container">
-    <h1>Ciao Comics</h1>
-
-</section>
+    <h1 class="welcome">
+        <a href="{{route('comics.index')}}">Benvenuto in DC Comics</a>
+    </h1>
 @endsection

@@ -214,6 +214,242 @@ return [
             "Joëlle Jones"
         ],
     ],
-]
+],
+    "navbar" => [
+        [
+            "text"=> "Characters",
+            "url"=> "characters",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Comics",
+            "url"=> "comics.index",
+            "active"=> true,
+        ],
+        [
+            "text"=> "Movies",
+            "url"=> "movies",
+            "active"=> false,
+        ],
+        [
+            "text"=> "TV",
+            "url"=> "tv",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Games",
+            "url"=> "games",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Collectibles",
+            "url"=> "collectibles",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Videos",
+            "url"=> "videos",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Fans",
+            "url"=> "fans",
+            "active"=> false,
+        ],
+        [
+            "text"=> "News",
+            "url"=> "news",
+            "active"=> false,
+        ],
+        [
+            "text"=> "Shop",
+            "url"=> "shop",
+            "active"=> false,
+        ],
+    ],
+    "linksImage" => [
+        [
+            "text"=> 'digital comics',
+            "url"=> 'buy-comics-digital-comics.png'
+        ],
+        [
+            "text"=> 'dc merchandise',
+            "url"=> 'buy-comics-merchandise.png'
+        ],
+        [
+            "text"=> 'subscription',
+            "url"=> 'buy-comics-subscriptions.png'
+        ],
+        [
+            "text"=> 'comic shop locator',
+            "url"=> 'buy-comics-shop-locator.png'
+        ],
+        [
+            "text"=> 'dc power visa',
+            "url"=> 'buy-dc-power-visa.svg'
+        ]
+        ],
+        "linksComics" => [
+            [
+                "text"=> "Characters",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Comics",
+                "url"=> "#",
+                "active"=> true,
+            ],
+            [
+                "text"=> "Movies",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "TV",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Games",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Collectibles",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Videos",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Fans",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "News",
+                "url"=> "#",
+                "active"=> false,
+            ],
+        ],
+           "linksShop" => [
+            [
+                "text"=> "Shop DC",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Shop DC Collectibles",
+                "url"=> "#",
+                "active"=> false,
+            ],
+        ],
+           "linksDc" => [
+            [
+                "text"=> "Terms Of Use",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Privacy Policy (New)",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Add Choices",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Advertising",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Jobs",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Subscriptions",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Talent Workshops",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "CPSC Certificates",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Ratings",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Shop Help",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "Contacts Us",
+                "url"=> "#",
+                "active"=> false,
+            ]
+            ],
+           "linksSites" => [
+            [
+                "text"=> "DC",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "MAD Magazine",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "DC Kids",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "DC Universe",
+                "url"=> "#",
+                "active"=> false,
+            ],
+            [
+                "text"=> "DC Power Visa",
+                "url"=> "#",
+                "active"=> false,
+            ],
+          ],
+          "linksSinglePage" => [
+              [
+                  "text"=> 'digital comics',
+                  "url"=> 'buy-comics-digital-comics.png'
+              ],
+              [
+                  "text"=> 'shop dc',
+                  "url"=> 'buy-comics-merchandise.png'
+              ],
+
+              [
+                  "text"=> 'comic shop locator',
+                  "url"=> 'buy-comics-shop-locator.png'
+              ],
+              [
+                "text"=> 'subscription',
+                "url"=> 'buy-comics-subscriptions.png'
+            ]
+              ]
 ];
 
